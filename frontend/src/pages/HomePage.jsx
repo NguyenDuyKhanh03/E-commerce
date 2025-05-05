@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { banner } from '../assets/images'
 import Star from '../assets/icons/star'
-import Product from '../components/product'
+import Product from '../components/Product'
 import { aothun } from '../assets/images'
 
 const products = [
